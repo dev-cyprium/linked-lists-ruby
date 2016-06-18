@@ -3,6 +3,7 @@ Solution to the project on the [Odin Project(lists)](http://www.theodinproject.c
 A Linked Lists data structure implemented intro ruby
 # Demo
 ( you can run your own by runing tester.rb )
+```shell
 List demo
 ---------
 Append test: ( t ) -> ( 4 ) -> ( 1 ) -> ( g ) -> ( test ) -> nil
@@ -20,3 +21,4 @@ Demonstrating pop:
 ( start ) -> ( t ) -> ( 4 ) -> ( 1 ) -> ( g ) -> ( test ) -> nil
 Removing at 5
 ( start ) -> ( t ) -> ( 4 ) -> ( 1 ) -> ( g ) -> nil
+```
